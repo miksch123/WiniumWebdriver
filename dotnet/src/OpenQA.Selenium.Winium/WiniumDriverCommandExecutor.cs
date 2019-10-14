@@ -39,6 +39,11 @@
             }
         }
 
+        public void Dispose()
+        {
+            this.service.Dispose();
+        }
+
         #endregion
 
         #region Public Methods and Operators
