@@ -1,8 +1,8 @@
 C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\obj\Debug\OpenQA.Selenium.Winium.csprojAssemblyReference.cache
-C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\bin\Debug\Winium.WebDriver.dll
-C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\bin\Debug\Winium.WebDriver.pdb
 C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\bin\Debug\WebDriver.dll
 C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\bin\Debug\WebDriver.xml
 C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\obj\Debug\OpenQA.Selenium.Winium.csproj.CopyComplete
-C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\obj\Debug\Winium.WebDriver.dll
-C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\obj\Debug\Winium.WebDriver.pdb
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\bin\Debug\Winium_WebDriver.dll
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\bin\Debug\Winium_WebDriver.pdb
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\obj\Debug\Winium_WebDriver.dll
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnet\src\OpenQA.Selenium.Winium\obj\Debug\Winium_WebDriver.pdb

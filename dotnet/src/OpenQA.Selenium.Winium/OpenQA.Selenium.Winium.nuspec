@@ -5,13 +5,15 @@
     <version>$version$</version>
     <authors>2GIS</authors>
     <owners>2GIS</owners>
-    <projectUrl>https://github.com/2gis/Winium</projectUrl>
+    <projectUrl>https://github.com/miksch123/WiniumWebdriver</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <dependencies>
-      <dependency id="Selenium.WebDriver" version="[2.48.0]" />
+      <dependency id="Selenium.WebDriver" version="[3.141.0]" />
     </dependencies>
     <releaseNotes>
+v0.1.2
+- updated selenium dependency to version 3.141.0
 v0.1.1
 - Add constructor using specifed remote address
 </releaseNotes>
