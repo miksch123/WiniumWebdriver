@@ -3,8 +3,8 @@
   <metadata>
     <id>$id$</id>
     <version>$version$</version>
-    <authors>2GIS</authors>
-    <owners>2GIS</owners>
+    <authors>miksch123</authors>
+    <owners>miksch123</owners>
     <projectUrl>https://github.com/miksch123/WiniumWebdriver</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
@@ -12,9 +12,8 @@
       <dependency id="Selenium.WebDriver" version="[3.141.0]" />
     </dependencies>
     <releaseNotes>
-v0.1.2
-- updated selenium dependency to version 3.141.0
 v0.1.1
+- updated selenium dependency to version 3.141.0
 - Add constructor using specifed remote address
 </releaseNotes>
     <copyright>Copyright @ 2015</copyright>

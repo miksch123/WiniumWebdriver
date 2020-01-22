@@ -1,0 +1,8 @@
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\obj\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.csprojAssemblyReference.cache
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\obj\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.AssemblyInfoInputs.cache
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\obj\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.AssemblyInfo.cs
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\bin\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.deps.json
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\bin\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.dll
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\bin\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.pdb
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\obj\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.dll
+C:\Users\MMIKSQAPC2\Documents\GitHub\WiniumWebdriver\dotnetcore\src\OpenQA.Selenium.Winium\obj\Debug\netcoreapp3.1\OpenQA.Selenium.Winium.pdb

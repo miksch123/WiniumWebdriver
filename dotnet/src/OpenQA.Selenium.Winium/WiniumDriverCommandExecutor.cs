@@ -41,7 +41,16 @@
 
         public void Dispose()
         {
-            this.service.Dispose();
+            if(this.service.IsRunning is true)
+            {
+                int id = this.service.ProcessId;
+                this.service.Dispose();
+                while(id != null)
+                {
+                    System.Threading.Thread.Sleep(200);
+                }
+                
+            }
         }
 
         #endregion

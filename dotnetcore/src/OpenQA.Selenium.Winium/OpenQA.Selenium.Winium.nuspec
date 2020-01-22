@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>miksch123</authors>
+    <owners>miksch123</owners>
+    <projectUrl>https://github.com/miksch123/WiniumWebdriver</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <dependencies>
+      <dependency id="Selenium.WebDriver" version="[3.141.0]" />
+    </dependencies>
+    <releaseNotes>
+v0.1.1
+- updated selenium dependency to version 3.141.0
+- Add constructor using specifed remote address
+</releaseNotes>
+    <copyright>Copyright @ 2015</copyright>
+    <tags>Winium WebDriver C#</tags>
+  </metadata>
+</package>
