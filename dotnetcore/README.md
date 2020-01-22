@@ -44,7 +44,7 @@ Contributions are welcome!
 
 ## Contact
 
-Have some questions? Found a bug? Create [new issue](https://github.com/2gis/Winium/issues/new) or contact us at t.kurnosova@2gis.ru
+Have some questions? Found a bug? Create [new issue](https://github.com/miksch123/WiniumWebdriver/issues/new) or contact us at mario.mikschovsky65@gmail.com
 
 ## License
 
